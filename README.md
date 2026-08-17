@@ -2,6 +2,10 @@
 
 DeepSeek Harness (`dsh`) 用例中文版。
 
+> **非官方项目。** 本仓库由社区维护，与 DeepSeek 无关联，也未获得 DeepSeek 的认可或背书。
+>
+> *Unofficial, community-maintained. Not affiliated with or endorsed by DeepSeek.*
+
 **状态：占位中，翻译尚未开始。**
 
 英文版已经发布并在维护中，内容完整：
